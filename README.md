@@ -8,6 +8,8 @@ USEにより生成されたデータは、[感情分類](https://en.wikipedia.or
 
 この例では、Transformer アーキテクチャをベースにし、8kの語彙[vocabulary](https://storage.googleapis.com/tfjs-models/savedmodel/universal_sentence_encoder/vocab.json)で学習した USE の軽量モデルを利用しています。
 
+![](./screenshot.png)
+
 参照：
 
 - [https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder)
