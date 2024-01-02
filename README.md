@@ -10,6 +10,10 @@ USEにより生成されたデータは、[感情分類](https://en.wikipedia.or
 
 参照：[https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder)
 
+##  デモ
+
+[https://t-cool.github.io/universal-sentence-encoder-demo/](https://t-cool.github.io/universal-sentence-encoder-demo/)
+
 ## ライセンス
 
 Apache License 2.0
