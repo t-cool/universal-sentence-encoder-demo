@@ -6,7 +6,7 @@ Universal Sentence Encoder (USE) は、テキストデータを512次元の組�
 
 USEにより生成されたデータは、[感情分類](https://en.wikipedia.org/wiki/Sentiment_analysis)や[テキスト類似度](https://en.wikipedia.org/wiki/Semantic_similarity)分析等、自然言語処理の入力データとして使用できます。
 
-この例で利用しているモデルは lite モデルですが、Transformer アーキテクチャをベースにし、8kの語彙[vocabulary](https://storage.googleapis.com/tfjs-models/savedmodel/universal_sentence_encoder/vocab.json)を使用しています。
+この例では、Transformer アーキテクチャをベースにし、8kの語彙[vocabulary](https://storage.googleapis.com/tfjs-models/savedmodel/universal_sentence_encoder/vocab.json)で学習した USE の軽量モデルを利用しています。
 
 参照：[https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder](https://github.com/tensorflow/tfjs-models/tree/master/universal-sentence-encoder)
 
